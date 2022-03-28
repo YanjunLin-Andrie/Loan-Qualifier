@@ -28,7 +28,7 @@ Before running the application first install the following dependencies in Termi
 
 ## Usage
 
-To use the Loan Qualifier application, users will conduct a series of **CLIs** (Command Line Interactions). Simply clone the repositor. Open Terminal or Bash and use `cd` to change directory to where the **app.py** file is located. Then type
+To use the Loan Qualifier application, users will conduct a series of **CLI** (Command Line Interface) interactions. Simply clone the repositor. Open Terminal or Bash and use `cd` to change directory to where the **app.py** file is located. Then type
 
 ```python
 python app.py
